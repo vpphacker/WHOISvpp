@@ -4,10 +4,15 @@ Simple to use and install
 Install This Tool In Termux
 
 $ apt update
+
 $ apt install git 
+
 $ git clone https://github.com/vpphacker/WHOISvpp.git
+
 $ cd WHOISvpp
+
 $ python install.py
+
 $ python2 whoisvpp.py
 
 Now Tool will Guid You
